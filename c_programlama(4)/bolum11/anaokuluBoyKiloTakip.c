@@ -7,7 +7,7 @@ struct ogrenci {
   char *ogrenciIsimSoyisim;
   float ogrenciKilo;
   float ogrenciBoy;
-};
+}
 
 // prototipler
 void ogrenciBilgileriniGir(struct ogrenci *);
